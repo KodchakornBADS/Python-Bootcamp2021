@@ -7,7 +7,7 @@ GUI
 - Generate Packgage packlangame to pypi
 - GUI Note in classroom  to Excel
 
-Web scping
+Web scraping
 - Check Price stock & send line application
 - Check Temperature each province & send line application
 - Check Gold price
